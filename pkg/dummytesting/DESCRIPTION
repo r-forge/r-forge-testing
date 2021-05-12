@@ -1,0 +1,7 @@
+Package: dummytesting
+Version: 0.0-1
+Title: A Dummy Package to Test Functionality of R-Forge
+Author: Gennadiy Starostin [aut, cre]
+Maintainer: Gennadiy Starostin <gennadiy.starostin@wu.ac.at>
+Description: A dummy package to test R-Forge functionality. Does nothing, means nothing. Please disregard.
+License: GPL (>= 2)
